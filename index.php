@@ -23,7 +23,7 @@
         },1000  );
         
 
-      } )
+      } );
     </script>
 
     <title>IoT</title>

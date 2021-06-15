@@ -81,13 +81,13 @@
 
   <div class="content">
     <div class="container-fluid tengah" >
-      <div><h3 style="text-align: center;">IOT Relay Test - NodeMCU PHP </h3></div>
+      <div><h3 style="text-align: center;">Setting Waktu Pemupukan <br>Secara Real Time</h3></div>
       <div style="width: 500px;">
         <div class="card card-chart" style="height: auto;"> 
           <div class="card-header card-header-success">
             <i class="fas fa-bell" style="font-size: 36px;"></i>
             <br>
-            Pengaturan Relay
+            Pengaturan pupuk
           </div>
 
         <div class="card-body">
